@@ -1,0 +1,8 @@
+1- Pegar uma lâmpada nova 
+2- Pegar uma escada 
+3- Colocar a escada debaixo da lampada que deseja trocar
+4- Subir na escada 
+5- Retirar a lâmpada antiga 
+6- Instalar a lâmpada nova 
+7- Descer da escada 
+8- Guardar a escada 
